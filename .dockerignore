@@ -1,0 +1,4 @@
+docker-commands.md
+*/node_modules
+.gitignore
+.git
